@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Some challenges were...
+I found this project to be very educating and rewarding.
 
 ## License
 
